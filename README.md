@@ -36,12 +36,12 @@ Currently, I'm **diving deep into PyTorch** and working on **exciting NLP projec
 
 ## 🔹 Featured Projects  
 
-✅ **Audio Classification Telegram Bot** (🎵 AI-powered music genre classifier) (repo: sound_classification)
-🛠 *Python, TensorFlow, Keras, Telebot, librosa*  
-→ Trained a **CNN model** to classify music genres from audio files and integrated it with a Telegram bot for real-time predictions. 
+✅ **Audio Classification Telegram Bot** (🎵 AI-powered music genre classifier) (repo: sound_classification)␣␣
+🛠 *Python, TensorFlow, Keras, Telebot, librosa* ␣␣
+→ Trained a **CNN model** to classify music genres from audio files and integrated it with a Telegram bot for real-time predictions.␣␣ 
 
-✅ **Facial Emotion Recognition** (😃😢 Real-time Emotion Detection) (repo: Emoji)
-🛠 *Python, TensorFlow, Keras, NumPy, Pandas, OpenCV, Tkinter*  
+✅ **Facial Emotion Recognition** (😃😢 Real-time Emotion Detection) (repo: Emoji)␣␣
+🛠 *Python, TensorFlow, Keras, NumPy, Pandas, OpenCV, Tkinter* ␣␣
 → Developed a **facial emotion recognition system** using the **FER2013 dataset**, achieving **~70% accuracy** in real-time emotion classification.  
 
 ✅ **Deep Q-Learning AI for Spacegame** (👾 Reinforcement Learning) (repo: Spacegame)
@@ -53,6 +53,7 @@ Currently, I'm **diving deep into PyTorch** and working on **exciting NLP projec
 → Participated in various **data analysis and prediction challenges** like Spaceship Titanic & House Prices.  
 
 🎯 **Next Project:** Developing an **NLP-based application** using PyTorch (stay tuned!)  
+
 
 ---
 
