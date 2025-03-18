@@ -45,14 +45,14 @@ Currently, I'm **diving deep into PyTorch** and working on **exciting NLP projec
 → Developed a **facial emotion recognition system** using the **FER2013 dataset**, achieving **~70% accuracy** in real-time emotion classification.<br>  
 
 ✅ **Deep Q-Learning AI for Spacegame** (👾 Reinforcement Learning) (repo: Spacegame)<br>
-🛠 *Python, TensorFlow, Keras, Pygame*<br>  
-→ Built an **AI agent** using Deep Q-Learning to autonomously play a space shooter game and optimize its score.<br>  
+🛠 *Python, TensorFlow, Keras, Pygame*<br>
+→ Built an **AI agent** using Deep Q-Learning to autonomously play a space shooter game and optimize its score.<br>
 
-✅ **Kaggle Competitions** (📊 Data Science & ML)<br>  
-🛠 *Python, Scikit-learn, NumPy, Pandas, Seaborn* <br> 
-→ Participated in various **data analysis and prediction challenges** like Spaceship Titanic, House Prices and etc.<br>  
+✅ **Kaggle Competitions** (📊 Data Science & ML)<br>
+🛠 *Python, Scikit-learn, NumPy, Pandas, Seaborn* <br>
+→ Participated in various **data analysis and prediction challenges** like Spaceship Titanic, House Prices and etc.<br>
 
-🎯 **Next Project:** Developing an **NLP-based application** using PyTorch (stay tuned!)<br>  
+🎯 **Next Project:** Developing an **NLP-based application** using PyTorch (stay tuned!)<br>
 
 
 ---
