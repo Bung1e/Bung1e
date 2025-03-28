@@ -15,26 +15,25 @@ Currently, I'm **diving deep into PyTorch** and working on **exciting NLP projec
 ## 🔹 Tech Stack  
 
 ### 🖥️ Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 📚 Frameworks & Libraries  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![aiogram](https://img.shields.io/badge/aiogram-2FA2CC?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### 🛠 Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ---
 
 ## 🔹 Featured Projects  
+
+✅ **Emotion-Based Movie Recommender Bot** (🎬 AI-Powered Entertainment Assistant) (repo: KinoBot)<br>
+🛠 *Python, PyTorch, FastAPI, Docker, TMDB API, aiogram*<br>
+→ Engineered a **production-ready AI system** that combines **NLP and recommendation systems** to analyze user emotions and suggest personalized movie recommendations. Achieved **85% accuracy** in emotion classification using a custom LSTM architecture. Implemented scalable microservices architecture with Docker and FastAPI.<br>
 
 ✅ **Audio Classification Telegram Bot** (🎵 AI-powered music genre classifier) (repo: sound_classification)<br>
 🛠 *Python, TensorFlow, Keras, Telebot, librosa*<br>
@@ -51,8 +50,6 @@ Currently, I'm **diving deep into PyTorch** and working on **exciting NLP projec
 ✅ **Kaggle Competitions** (📊 Data Science & ML)<br>
 🛠 *Python, Scikit-learn, NumPy, Pandas, Seaborn* <br>
 → Participated in various **data analysis and prediction challenges** like Spaceship Titanic, House Prices and etc.<br>
-
-🎯 **Next Project:** Developing an **NLP-based application** using PyTorch (stay tuned!)<br>
 
 
 ---
