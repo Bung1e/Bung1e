@@ -1,85 +1,161 @@
-# 👋 Hi, I'm Aleksei Chovzhik!  
-**GenAI-focused Data Scientist** | **Machine Learning** | **RAG Systems & Agentic AI** | **Azure Cloud Architect** 
+# 👋 Hi, I'm Aleksei Chovzhik
 
-### 🔹 About Me  
-I'm a **Computer Science (Data Science) graduate** with enterprise-level experience in developing **RAG systems, agentic AI solutions, and scalable cloud architectures**. I specialize in **LLM integration, prompt engineering, and responsible AI practices** with proven expertise in building production-ready GenAI applications.
+**Python Developer** focused on **backend development**, **AI-powered applications**, and **RAG-based systems**.
 
-📍 Based in Wroclaw, Poland | Open to remote & hybrid opportunities  
+I'm a Computer Science / Data Science graduate based in Wroclaw, Poland.
+Currently working with Python backend services and enterprise AI assistant features, including document-processing workflows, LLM integrations, and backend service development.
 
----
+My main interests are:
 
-## 🔹 Tech Stack  
-
-### 🖥️ Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### 🤖 GenAI & LLM  
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)  
-![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
-
-### 📚 ML Frameworks & Libraries  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ☁️ Cloud & DevOps  
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🔍 Data Tools  
-![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![librosa](https://img.shields.io/badge/librosa-8A2BE2?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* Backend development with Python and FastAPI
+* GenAI applications and RAG systems
+* Document processing and LLM-powered assistants
+* Clean API design, testing, and production-style backend architecture
 
 ---
 
-## 🔹 Professional Experience  
+## 🧰 Tech Stack
 
-### 🏢 **GenAI Developer** @ Accenture Talent Academy (Apr 2025 – Jul 2025)
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=python\&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6A5ACD?style=for-the-badge\&logo=python\&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
+
+### GenAI / LLM
+
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge\&logo=elasticsearch\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=for-the-badge\&logo=openai\&logoColor=white)
+
+### Cloud & DevOps
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge\&logo=azure-functions\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+
+### ML / Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### Python Developer @ EY GDS
+
+**AI / Backend Development**
+*Oct 2025 – Present*
+
+* Working on enterprise AI assistant features for document-processing workflows.
+* Developing backend functionality and service integrations using Python, FastAPI, Azure services, PostgreSQL, Alembic, pytest, and Pydantic AI.
+* Contributing to RAG-based functionality for document understanding, retrieval, and LLM-powered responses.
+* Implementing and debugging backend components, including API logic, database-related changes, migrations, and automated tests.
+* During the internship phase, worked on a CV matching chatbot with authentication, role-based access control, database integrations, and search functionality.
+
+### GenAI Trainee @ Accenture Talent Academy
+
 **RAG-based Intelligent Assistant**
-- Developed enterprise-grade RAG system using **Azure OpenAI, LangChain, and Azure AI Search** with **90%+ accuracy** in document retrieval
-- Implemented **agentic AI architecture with LangGraph** for complex multi-step reasoning and decision-making workflows
-- Built scalable **serverless backend using Azure Functions** with comprehensive logging, monitoring, and cost optimization
+*Apr 2025 – Jul 2025*
 
-### 💼 **Freelance AI Developer** (Jan 2025 – Apr 2025)
-**Legal Document QA System**
-- Developed specialized RAG system for legal contract validation using **LLaMA 3.2 3B**
-- Implemented hybrid retrieval pipeline with logic for identifying contract inconsistencies and legal recommendations
+* Completed GenAI training focused on RAG systems, Azure OpenAI, LangChain, Azure AI Search, responsible AI practices, and cloud-based AI applications.
+* Built a RAG-based assistant prototype with document retrieval, LLM integration, and a simple user interface.
 
 ---
 
-## 🔹 Featured Projects  
+## 🚀 Featured Projects
 
-✅ **Emotion-Based Movie Recommender Bot** ( AI-Powered Entertainment Assistant) (repo: KinoBot)<br>
-🛠 *Python, PyTorch, FastAPI, Docker, TMDB API, aiogram*<br>
-→ Engineered a **production-ready AI system** that combines **NLP and recommendation systems** to analyze user emotions and suggest personalized movie recommendations. Achieved **85% accuracy** in emotion classification using a custom LSTM architecture. Implemented scalable microservices architecture with Docker and FastAPI.<br>
+### CareerPilot AI — AI Job Application Tracker
 
-✅ **Audio Classification Telegram Bot** ( AI-powered music genre classifier) (repo: sound_classification)<br>
-🛠 *Python, TensorFlow, Keras, Telebot, librosa*<br>
-→ Trained a **CNN model** to classify music genres from audio files and integrated it with a Telegram bot for real-time predictions. Achieved **85% accuracy** with MFCC feature extraction and real-time audio processing.<br>
+*In progress*
 
-✅ **Facial Emotion Recognition** ( Real-time Emotion Detection) (repo: Emoji)<br>
-🛠 *Python, TensorFlow, Keras, NumPy, Pandas, OpenCV, Tkinter* <br>
-→ Developed a **facial emotion recognition system** using the **FER2013 dataset**, achieving **~70% accuracy** in real-time emotion classification.<br>  
+Production-style FastAPI backend for CV-to-job matching and job application tracking.
 
-✅ **Deep Q-Learning AI for Spacegame** ( Reinforcement Learning) (repo: Spacegame)<br>
-🛠 *Python, TensorFlow, Keras, Pygame*<br>
-→ Built an **AI agent** using Deep Q-Learning to autonomously play a space shooter game and optimize its score.<br>
+Planned / implemented features:
 
-✅ **Kaggle Competitions** (📊 Data Science & ML)<br>
-🛠 *Python, Scikit-learn, NumPy, Pandas, Seaborn* <br>
-→ Participated in various **data analysis and prediction challenges** like Spaceship Titanic, House Prices and etc.<br>
+* JWT authentication and user-specific data access
+* PostgreSQL database with Alembic migrations
+* CV upload and text extraction
+* Job posting tracker with application statuses
+* LLM-based CV-to-job matching
+* Structured AI outputs with Pydantic models
+* Automated tests with pytest
+* Docker-based local development setup
+
+**Tech:** Python, FastAPI, PostgreSQL, Alembic, pytest, Docker, Azure OpenAI, Pydantic
+
+---
+
+### Legal Document QA System
+
+RAG-based prototype for validating legal contracts against civil code provisions.
+
+* Implemented document retrieval and LLM-based question answering for contract analysis.
+* Built logic for extracting relevant information and generating contract-related answers.
+
+**Tech:** Python, LangChain, PyTorch, LLaMA 3.2 3B, OpenAI API
+
+---
+
+### Emotion-Based Movie Recommender Bot
+
+Telegram bot that recommends movies based on user emotion and preferences.
+
+* Built an NLP-based emotion classification and recommendation flow.
+* Integrated the bot with external movie data using the TMDB API.
+
+**Tech:** Python, PyTorch, FastAPI, Docker, aiogram, TMDB API
+
+---
+
+### Audio Classification Telegram Bot
+
+Telegram bot for music genre classification from audio files.
+
+* Trained a CNN model using audio features.
+* Integrated real-time audio processing with a Telegram bot interface.
+
+**Tech:** Python, TensorFlow, Keras, librosa, Telegram Bot API
 
 ---
 
 ## 🎓 Education
-**Bachelor of Computer Science (Data Science)**  
-Wroclaw University of Science and Technology | Oct 2021 - Jan 2025
+
+**Bachelor of Computer Science, specialization: Data Science**
+Wroclaw University of Science and Technology
+*Oct 2021 – Jan 2025*
+
+---
+
+## 📜 Certifications
+
+* Microsoft Azure Fundamentals — AZ-900
+* Microsoft Azure AI Fundamentals — AI-900
+* Microsoft Azure AI Engineer Associate — AI-102
 
 ---
 
 ## 🌐 Languages
-🇵🇱 Polish (B2) | 🇺🇸 English (B2) | 🇧🇾 Belarusian (Native) | 🇷🇺 Russian (Native)
+
+* Russian — Native
+* Belarusian — Native
+* Polish — B2
+* English — B2
 
 ---
 
-## 🔹 Let's Connect!  
-📩 Email: [leshkachovzhik@gmail.com](mailto:leshkachovzhik@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/chovzhik](https://www.linkedin.com/in/chovzhik/)  
+## 📫 Contact
+
+* Email: [leshkachovzhik@gmail.com](mailto:leshkachovzhik@gmail.com)
+* LinkedIn: [linkedin.com/in/chovzhik](https://www.linkedin.com/in/chovzhik/)
