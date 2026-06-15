@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aleksei Chovzhik
+# Hi, I'm Aleksei
 
 **Python Developer** focused on **backend development**, **AI-powered applications**, and **RAG-based systems**.
 
@@ -14,7 +14,7 @@ My main interests are:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -51,7 +51,7 @@ My main interests are:
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Python Developer @ EY GDS
 
@@ -74,7 +74,7 @@ My main interests are:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### CareerPilot AI — AI Job Application Tracker
 
@@ -130,7 +130,7 @@ Telegram bot for music genre classification from audio files.
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Computer Science, specialization: Data Science**
 Wroclaw University of Science and Technology
@@ -138,7 +138,7 @@ Wroclaw University of Science and Technology
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 * Microsoft Azure Fundamentals — AZ-900
 * Microsoft Azure AI Fundamentals — AI-900
@@ -146,7 +146,7 @@ Wroclaw University of Science and Technology
 
 ---
 
-## 🌐 Languages
+##  Languages
 
 * Russian — Native
 * Belarusian — Native
@@ -155,7 +155,7 @@ Wroclaw University of Science and Technology
 
 ---
 
-## 📫 Contact
+##  Contact
 
 * Email: [leshkachovzhik@gmail.com](mailto:leshkachovzhik@gmail.com)
 * LinkedIn: [linkedin.com/in/chovzhik](https://www.linkedin.com/in/chovzhik/)
